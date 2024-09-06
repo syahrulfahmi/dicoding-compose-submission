@@ -89,6 +89,7 @@ dependencies {
 
     // hilt
     implementation(libs.hiltAndroid)
+    implementation(libs.androidx.ui.text.google.fonts)
     kapt(libs.hiltCompiler)
 
     // network
